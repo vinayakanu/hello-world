@@ -3,7 +3,7 @@
     <h1>welcome to Valaxy Technologies</h1>
     <h1>please Register for DevOps Learning</h1><h2>the training will start in December 2021. Hurry up!!!</h2>
     <h5>use coupan code DECEMBER2021</h5>
-
+    <h2>last date to register is 30th november</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
