@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>welcome to Valaxy Technologies</h1>
-    <h1>please Register for DevOps Learning</h1>
+    <h1>please Register for DevOps Learning</h1><h2>the training will start in December 2021. Hurry up!!!</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
